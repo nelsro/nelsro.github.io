@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="365.59549"
+   height="12.847117"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="separator.svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4"
+     inkscape:cx="262.09106"
+     inkscape:cy="-27.886806"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1855"
+     inkscape:window-height="1176"
+     inkscape:window-x="1985"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     fit-margin-top="0.3"
+     fit-margin-left="0.3"
+     fit-margin-right="0.3"
+     fit-margin-bottom="0.3" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-77.910866,-265.67479)">
+    <path
+       style="fill:#000000;stroke:#000000;stroke-width:1.99571693px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 88.893424,271.87443 344.462016,0"
+       id="path2987"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/mihnea/Desktop/separator.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#000000;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="path2989"
+       sodipodi:cx="71.215752"
+       sodipodi:cy="262.92798"
+       sodipodi:rx="6.5659914"
+       sodipodi:ry="6.5659914"
+       d="m 77.781743,262.92798 c 0,3.6263 -2.939694,6.56599 -6.565991,6.56599 -3.626297,0 -6.565992,-2.93969 -6.565992,-6.56599 0,-3.6263 2.939695,-6.56599 6.565992,-6.56599 3.626297,0 6.565991,2.93969 6.565991,6.56599 z"
+       transform="matrix(0.86705258,0,0,0.86705258,22.584024,44.117711)"
+       inkscape:export-filename="/home/mihnea/Desktop/separator.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#000000;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="path2989-8"
+       sodipodi:cx="71.215752"
+       sodipodi:cy="262.92798"
+       sodipodi:rx="6.5659914"
+       sodipodi:ry="6.5659914"
+       d="m 77.781743,262.92798 c 0,3.6263 -2.939694,6.56599 -6.565991,6.56599 -3.626297,0 -6.565992,-2.93969 -6.565992,-6.56599 0,-3.6263 2.939695,-6.56599 6.565992,-6.56599 3.626297,0 6.565991,2.93969 6.565991,6.56599 z"
+       transform="matrix(0.86705258,0,0,0.86705258,375.33241,44.117711)"
+       inkscape:export-filename="/home/mihnea/Desktop/separator.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+  </g>
+</svg>
