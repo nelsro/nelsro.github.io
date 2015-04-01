@@ -111,6 +111,20 @@ img.newsletter-img {
   margin-bottom: 0.2rem;
 }
 
+.newsletter {
+  img {
+    box-shadow: none;
+  }
+
+  .row {
+    margin-bottom: 2em;
+  }
+}
+
+hr {
+  border-color: #342B26;
+}
+
 div.menu-item {
   margin-bottom: 1rem;
   height: 35rem;
@@ -140,7 +154,7 @@ div.menu-item {
   }
 
   img.other-img {
-    max-width: 5rem;
+    max-height: 3.5rem;
     margin-right: 0.2rem;
     margin-bottom: 0.2rem;
   }
