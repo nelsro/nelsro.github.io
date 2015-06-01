@@ -106,8 +106,6 @@ div.menu-item {
     max-height: 3.5rem;
     margin-right: 0.2rem;
     margin-bottom: 0.2rem; }
-  div.menu-item .fix-height img {
-    max-height: none; }
   div.menu-item .details {
     padding-left: 1rem;
     padding-right: 1rem; }
